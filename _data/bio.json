@@ -1,58 +1,60 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kameron Wong",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "wongk711@hawaii.edu",
+    "phone": "916-770-0221",
+    "website": "https://wongk711.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "92-791 Ahikoe St.",
+      "postalCode": "96707",
+      "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "wongk711",
+        "url": "https://wongk711.github.io"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "https://www.linkedin.com/in/kameron-wong-ICS/"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kam._.w",
+        "url": "https://www.instagram.com/kam._.w/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning/A.I.",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Neural Networks"
       ]
     },
     {
-      "name": "data mining",
+      "name": "data science",
       "keywords": [
+        "Algorithms",
+        "big data",
+        "data analysis"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "PC games",
       "keywords": [
+        "League of Legends",
+        "Starcraft 2",
+        "Portal 2"
       ]
     }
   ],
@@ -64,9 +66,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
