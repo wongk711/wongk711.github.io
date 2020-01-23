@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/text-game.jpg
-title: snake
+title: first-project
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
