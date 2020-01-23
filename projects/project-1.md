@@ -1,44 +1,18 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/text-game.jpg
+title: snake
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-01-23
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - team project
+  - console game
+  - C
+summary: My very first project in programming
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
-
+This project in retrospect was a simple project to say the least. Our prompt was simple: design a game to run on the console output of a computer. Unfortunately I do not have source code or a picture of the project due to the creation of it being on an unreachable server. My team was "ambitious" and instead of going for the common word games or math games, went for a game of snake. The reason I am showcasing this project is not because of its complexity or its fascinating graphics, but because I am particularly proud of this project being that it was my first team project and because at the time, seemed impossible to code. 
+This project was designed by myself alon with two of my peers and took approximately two weeks of us meeting 3-5 times a week to resync our programs and develop a plan for the days between our next meeting. During those two weeks we'd each code until we ran into an issue, meet up, help solve each other's issues, and assign new tasks for each other to do. 
+This project was particularly challenging at the time due to the restraints of having to print the map in text based format to the console. In fact if you made multiple consecutive moves fast enough, you could see the console trying to keep up printing the map and refreshing the screen fast enough as we would have to clear the screen and reprint the map on every move. 
+Like I said, a simple program in retrospect, however I am very proud of it due to our team working together, communicating effectively, and pulling it off by the deadline.
