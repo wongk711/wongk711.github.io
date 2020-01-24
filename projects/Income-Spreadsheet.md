@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/graph.png
+image: ../images/graph.png
 title: Income Spreadsheet
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
