@@ -16,3 +16,5 @@ This project in retrospect was a simple project to say the least. Our prompt was
 This project was designed by myself alon with two of my peers and took approximately two weeks of us meeting 3-5 times a week to resync our programs and develop a plan for the days between our next meeting. During those two weeks we'd each code until we ran into an issue, meet up, help solve each other's issues, and assign new tasks for each other to do. 
 This project was particularly challenging at the time due to the restraints of having to print the map in text based format to the console. In fact if you made multiple consecutive moves fast enough, you could see the console trying to keep up printing the map and refreshing the screen fast enough as we would have to clear the screen and reprint the map on every move. 
 Like I said, a simple program in retrospect, however I am very proud of it due to our team working together, communicating effectively, and pulling it off by the deadline.
+
+<img class="ui image" src="../images/snake.png">
