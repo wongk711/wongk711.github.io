@@ -12,7 +12,7 @@ labels:
 summary: Designed and developed wind turbine
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="https://github.com/wongk711/wongk711.github.io/tree/master/images/windmill.jpg">
 
 ## Wind Turbine
 
