@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/text-game.jpg
-title: first-project
+title: First Coding Project
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
