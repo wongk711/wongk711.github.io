@@ -75,19 +75,19 @@
       "gpa": "2.7",
       "courses": [
         "Math": [ 
-          241,
-          242,
-          243,
-          244,
-          307 
+          "241: Calc 1",
+          "242: Calc 2",
+          "243: Calc 3",
+          "244: Calc4",
+          "307: Linear Algebra" 
         ],
         "ICS": [ 
-          111,
-          211,
-          212,
-          222,
-          311,
-          314 
+          "111: Java 1",
+          "211: Data Structures in Java",
+          "212: Program Structure in C",
+          "222: Basic Concepts of Comp. Sci.",
+          "311: Algorithms",
+          "314: Software Development 1" 
         ]
       ]
     }
