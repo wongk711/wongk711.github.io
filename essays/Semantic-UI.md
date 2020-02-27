@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: <div class="new language">
+title: div class="new language"
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-27
 labels:
