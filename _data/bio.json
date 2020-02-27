@@ -2,7 +2,7 @@
   "basics": {
     "name": "Kameron Wong",
     "label": "Student",
-    "picture": "images/KamProfile1.jpg",
+    "picture": "/images/KamProfile1.jpg",
     "email": "wongk711@hawaii.edu",
     "phone": "916-770-0221",
     "website": "https://wongk711.github.io",
