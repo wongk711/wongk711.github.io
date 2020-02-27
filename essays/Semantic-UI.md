@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Semantic UI
+title: <div class="new language">
 # All dates must be YYYY-MM-DD format!
-date: 2020-02-13
+date: 2020-02-27
 labels:
   - HTML
   - CSS
