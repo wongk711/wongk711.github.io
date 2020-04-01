@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -10,7 +9,6 @@ labels:
   - Web app
   - Mobile app
 ---
-
 # Overview
 
 ### The Problem
