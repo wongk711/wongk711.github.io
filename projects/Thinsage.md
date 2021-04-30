@@ -43,3 +43,5 @@ The last major category was image subsampling. One could of course simply use th
 ## Conlusion
 
 After writing all these methods and classes, Mahdi worked with me to help structure the code in a clean and efficient way. Coming away from this project I learned a lot. I learned a lot about working with different types of data and what’s important when working with each type. I learned about writing clean efficient Pythonic code and how to structure complex code which interweave with each other. I also gained more experience in writing my own code which really helped me understand the basics such as clearly naming variables and methods and reusability of code.
+
+<a href="https://github.com/mahdi-b/thinsage">See it on Github</a>
