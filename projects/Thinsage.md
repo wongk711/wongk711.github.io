@@ -32,7 +32,7 @@ However with one of the more complex methods known as Largest Triangle Three Buc
 
 In total there are five different methods of subsampling time series each with their own pros and cons.
 
-## Multi Feature
+## Multi-Feature
 
 Another category we chose is what we called multi-feature subsampling. Imagine we’re trying to visualise clusters of data of people who smoke and don’t smoke, we can cluster them based on multiple features such as age, gender, location,  marital status, number of children etc. multi-feature subsampling would take this tabular data and cluster the records into k clusters and take balanced samples from each cluster. This sounds familiar because it is, we were able to reuse code mentioned above. This is where I started to realize the importance of the structuring.
 
@@ -40,7 +40,7 @@ Another category we chose is what we called multi-feature subsampling. Imagine w
 
 The last major category was image subsampling. One could of course simply use the generic subsampling if they wanted random or if they have access to labels corresponding to the data use the methods mentioned at the beginning of this report. However, we went one step further and were able to implement PCA for dimensionality reduction. This allowed us to again reuse code and cluster images based on their reduced form and return balanced subsamples. For example, if we have 1000 images of dogs and 5000 images of cats, we can use this PCA subsampling and ideally return x images of dogs and y images of cats, where x is approx. equal to y.
 
-## Conlusion
+## Conclusion
 
 After writing all these methods and classes, Mahdi worked with me to help structure the code in a clean and efficient way. Coming away from this project I learned a lot. I learned a lot about working with different types of data and what’s important when working with each type. I learned about writing clean efficient Pythonic code and how to structure complex code which interweave with each other. I also gained more experience in writing my own code which really helped me understand the basics such as clearly naming variables and methods and reusability of code.
 
