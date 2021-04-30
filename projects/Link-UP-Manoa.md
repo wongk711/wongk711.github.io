@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../images/lum-user-page.png
-title: Income Spreadsheet
+title: Link-Up Manoa
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-14
 labels:
