@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: ../images/horror.png
-title: Link-Up Manoa
+title: Horror Game
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
 labels:
