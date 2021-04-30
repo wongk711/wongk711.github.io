@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/lum-user-page.png
+image: ../images/front.png
 title: Thinsage
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
