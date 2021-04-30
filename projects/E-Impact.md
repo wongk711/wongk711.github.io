@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: ../images/lum-user-page.png
+image: ../images/EImpact.png
 title: E-Impact
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-14
+date: 2021-04-29
 labels:
   - Web Development
   - HTML
@@ -16,20 +16,7 @@ labels:
 summary: Worked with team to create candidate website for HEI.
 ---
 
-## Home Page
-
-Our home page was pretty basic in its aesthetic but I belive in the simple beauty of things. This was simply a page to tell newcomers what our site could do and how to register, and a chance for existing users to sign in. This was one of my contributions to the project was building this page. 
-
-<img class="ui image" src="/images/lum-user-page.png">
-
-## Databases
-
-We used a combination Meteor and Mongo DB to keep our databases. For example we had to keep databases of user's friends, their reminders, any scheduled study sessions they have, etc. This is an example of a users' friends page:
-
-<img class="ui image" src="/images/lum-friends.png">
-
-## Working as a Team 
-
-As for my contribution, I took care of the website homepage, the landing page of the site, and the remin ders component of the site. This project we heavily relied on Github to manage different tasks and keep track of whos taking care of what. This was my first experience using github organizations as well as relying on github for version control across a whole team. After completing this project, I really love how easy github makes it, to work on a team. I remember working on a project in my freshman year on a shell project, with no github and we would meet once a week and compare our programs and change them all and do it again the next week. Anyway, loved the teamwork, and the project came out okay.
-
-Heres the link for our <a href="https://link-up-manoa.github.io/">Website Home Page.<a/> We have since shut the server down, since we no longer have the free trial.
+This was a semester long project for ICS 414 at UH Manoa. I worked in a group of 8 to create this Meteor, MongoDB, React based application for HEI. As I understand, HEI is to choose one of the groups projects for further development and later deployment.
+My main role in the group was developing the Daily Page which consisted of working with the MongoDB collections as well as Meteor's database to list trips taken by a particular user. Most of the components in the Daily page, I created with the help of React-Semantic-UI. The Daily Page also was the foundation for the Admin Daily page which was written later on.
+I also helped develop thousands of records of fake data for development and show testing purposes. I used Python to create this Data.
+If you want to see more, check out our <a href="https://github.com/environment-overflow/E-Impact">Github</a> and our <a href="https://environment-overflow.github.io/">Homepage</a>
