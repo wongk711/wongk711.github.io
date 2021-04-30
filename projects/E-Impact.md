@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/EImpact.png
+image: ../images/Landing.png
 title: E-Impact
 # All dates must be YYYY-MM-DD format!
 date: 2021-04-29
